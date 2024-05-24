@@ -1,0 +1,28 @@
+<mxfile host="Electron" modified="2024-03-07T12:25:54.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Xr5eXIXv-6IfLYmqIO0w" version="23.1.5" type="device">
+  <diagram name="Page-1" id="ErbL4Ap2fY_tSGpEGy8K">
+    <mxGraphModel dx="1195" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ECz7u4_Zy-3vBRGlorit-1" value="STM32F103RCT6&lt;br&gt;(150mA)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ECz7u4_Zy-3vBRGlorit-2" value="ESP32-WROOM-32E&lt;br&gt;(500mA)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="320" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ECz7u4_Zy-3vBRGlorit-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECz7u4_Zy-3vBRGlorit-3" target="ECz7u4_Zy-3vBRGlorit-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECz7u4_Zy-3vBRGlorit-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECz7u4_Zy-3vBRGlorit-3" target="ECz7u4_Zy-3vBRGlorit-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECz7u4_Zy-3vBRGlorit-3" value="AMS1117" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ECz7u4_Zy-3vBRGlorit-7" value="CH340C" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

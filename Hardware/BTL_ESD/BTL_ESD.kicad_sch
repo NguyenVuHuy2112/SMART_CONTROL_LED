@@ -1,0 +1,317 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ce4779b4-6d78-42e3-84df-0a4e77629b0f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 77.47 88.9)
+		(size 30.48 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "06edfd9a-10e3-4294-8775-983c56efee5c")
+		(property "Sheetname" "TFT"
+			(at 77.47 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "tft.kicad_sch"
+			(at 77.47 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BTL_ESD"
+				(path "/ce4779b4-6d78-42e3-84df-0a4e77629b0f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 88.9)
+		(size 27.94 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "44099a2a-bdde-4bbb-bae9-9fc724f8d252")
+		(property "Sheetname" "ESP32"
+			(at 41.91 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32.kicad_sch"
+			(at 41.91 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BTL_ESD"
+				(path "/ce4779b4-6d78-42e3-84df-0a4e77629b0f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 171.45 48.26)
+		(size 34.29 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5a62b24e-983b-422f-a5b4-3f2d2f2b7ed3")
+		(property "Sheetname" "USB_TTL"
+			(at 171.45 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_TTL.kicad_sch"
+			(at 171.45 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BTL_ESD"
+				(path "/ce4779b4-6d78-42e3-84df-0a4e77629b0f"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 48.26)
+		(size 33.02 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5e78f83c-f202-4ca3-bd35-bb95a1f1b22b")
+		(property "Sheetname" "CURRENT_SUPPLY"
+			(at 121.92 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "current_supply.kicad_sch"
+			(at 121.92 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BTL_ESD"
+				(path "/ce4779b4-6d78-42e3-84df-0a4e77629b0f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 48.26)
+		(size 27.94 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9d7f72da-4df1-471c-b393-08ba4426cbba")
+		(property "Sheetname" "STM32"
+			(at 41.91 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stm32.kicad_sch"
+			(at 41.91 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BTL_ESD"
+				(path "/ce4779b4-6d78-42e3-84df-0a4e77629b0f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 173.99 90.17)
+		(size 29.21 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aa65e15e-8b54-480e-8def-56214b53193f")
+		(property "Sheetname" "CONTROL_LED"
+			(at 173.99 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "control_led.kicad_sch"
+			(at 173.99 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BTL_ESD"
+				(path "/ce4779b4-6d78-42e3-84df-0a4e77629b0f"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 88.9)
+		(size 34.29 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c3280f20-486c-46c2-9703-f7181f16559f")
+		(property "Sheetname" "MEASURE"
+			(at 120.65 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "measure.kicad_sch"
+			(at 120.65 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BTL_ESD"
+				(path "/ce4779b4-6d78-42e3-84df-0a4e77629b0f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 48.26)
+		(size 30.48 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fb6de343-a930-422d-a1ac-a921f45011d1")
+		(property "Sheetname" "POWER_SUPPLY"
+			(at 77.47 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_supply.kicad_sch"
+			(at 77.47 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BTL_ESD"
+				(path "/ce4779b4-6d78-42e3-84df-0a4e77629b0f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

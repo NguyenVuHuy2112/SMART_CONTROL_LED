@@ -1,0 +1,38 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32.cfg"
+    ],
+    "idf.port": "/dev/ttyUSB0",
+    "cmake.sourceDirectory": "D:/BTL_ESD/Firmware/ESP32/BTL_ESP",
+    "files.associations": {
+        "graphics.h": "c",
+        "ili9341.h": "c",
+        "stdbool.h": "c",
+        "uart_driver.h": "c",
+        "main.h": "c",
+        "mqtt_client_tcp.h": "c",
+        "stdint.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "keypad_MQTT.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "keypad_wifi.h": "c",
+        "screen.h": "c",
+        "stdlib.h": "c",
+        "event.h": "c",
+        "cal_temperature.h": "c",
+        "icon.h": "c",
+        "calibrate_adc.h": "c"
+    },
+    "cSpell.words": [
+        "Authmode",
+        "LOGI",
+        "LOGW",
+        "MQTT",
+        "netif",
+        "nodered"
+    ],
+    "docwriter.style": "Doxygen"
+}
